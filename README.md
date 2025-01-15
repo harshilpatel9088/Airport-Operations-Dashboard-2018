@@ -34,4 +34,4 @@ This project is designed to empower decision-makers with a clearer understanding
 
 Below is a snapshot of the final **Power BI** dashboard showcasing the flight operations KPIs and data insights.
 
-![Dashboard Snapshot](final_dashoard.png)
+![Dashboard Snapshot](Airport_Dashboard.png)
